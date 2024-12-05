@@ -1,0 +1,49 @@
+## Overview
+
+**Flippy Fish**:
+
+**I made a Flappy Fish in Unity**:
+
+**To make the fish move go up and down on the background and dodge pipes**:
+
+## Instructions for Build and Use
+
+
+You have to install Unity from unity website. (I recommend personal free account).
+Choose what type of game you want to make.
+Install or buy assets that you want to use.
+Import assets and pictures that you are going to use.
+Place it to where you want.
+Add components to each objects.
+Make a c sharp scripts for objects.
+Go to game and hit the play button.
+
+Instructions for using the software:
+
+1. Click the start button.
+2. Click the mouse to adjust the position of the fish!!
+3. Keep Going!!
+
+## Development Environment 
+
+To recreate the development environment, you need the following software and/or libraries with the specified versions:
+
+* You have to make account and download Unity hub.
+* Install Unity in unity hub.
+* Install assets as you need.
+
+## Useful Websites to Learn More
+
+I found these websites useful in developing this software:
+
+* https://youtu.be/pwZpJzpE2lQ?si=Bv8cCXOo-WGrQHCX
+* https://youtu.be/8h2JqLg_oVI?list=PL860gXPb3_unforoPY8EIRKP4pj1p63GQ
+*
+
+## Future Work
+
+The following items I plan to fix, improve, and/or add to this project in the future:
+
+* [ ] Make pipes move from the right.
+* [ ] When the fish touches to the pips, the game will be start over.
+* [ ] Count the score each time!!
